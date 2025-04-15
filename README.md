@@ -1,1 +1,2 @@
 # odin-rock-paper-scissors
+This project is only to demonstrate my basic javascript knowledge by creating a rock, paper, scissors game. So it doesn't have a GUI it is only played through the browser console. In this project I applied my knowledge of variables, functions, loop, and basic problem solving skills. It is a human vs computer game. Human player will input rock, paper, or scissors and the computer will randomly generate either rock, paper, and scissors.
